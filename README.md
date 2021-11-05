@@ -1,1 +1,3 @@
-# Dotfiles on my Macbook Air Silicon
+# Ddjordison's Dotfiles
+
+Simple configuration for my Macbook Air Silicon
